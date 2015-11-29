@@ -1,0 +1,9 @@
+run/
+.gradle/
+*.iml
+*.ipr
+*.iws
+libs/
+out/
+gradle/
+gradlew*

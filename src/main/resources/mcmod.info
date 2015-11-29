@@ -1,0 +1,19 @@
+[
+  {
+    "modid" : "ImmersiveStorage",
+    "name" : "Immersive Storage",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": [
+      "AngieTheDemoness"
+    ],
+    "credits": "",
+    "description": "Adds some means of Storage and other useful ways to make your day more Immerisve !",
+    "url" : "https://github.com/AngieTheDemoness/ImmersiveStorage",
+    "updateUrl" : "",
+    "logoFile" : "",
+    "parent" : "",
+    "screenshots": [
+    ]
+  }
+]
